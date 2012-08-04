@@ -1,0 +1,6 @@
+
+		>> A stream query builder POC using Storm <<
+
+   >> Topology <<
+
+	Two mock data-sources (Spouts) -> Filter (Bolt) -> Aggregator (Bolt)
